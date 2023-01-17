@@ -123,6 +123,7 @@ include:
   - _pages
   - files
   - publications
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -179,6 +180,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -191,6 +195,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _publications
   - scope:
       path: ""
