@@ -17,4 +17,4 @@ My research explores topics related to reinforcement learning, AI safety, respon
 
 * Recipient of **DeepMind Fellowship** for PhD studies, 2021-2025.
 * Recipient of **Graduate Fellowship** from **Schwartz Reisman Institute for Technology and Society**, University of Toronto, 2022-2023.
-* **Silver medal** in the 24<sup>th</sup> **Iranian National Olympiad in Informatics** (INOI), 2014.
+* **Silver medal** in the 24<sup>th</sup> Iranian National Olympiad in Informatics (INOI), 2014.
