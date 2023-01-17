@@ -34,7 +34,15 @@
     {% endif %}
     {% if post.collection == 'publications' and post.paperurl %}
       <div>
-        [<a href="{{ post.paperurl }}">Paper</a>]
+        [ <a href="{{ post.paperurl }}">Paper</a>
+          {% if post.codeurl %}
+          |
+          <a href="{{ post.codeurl }}">Code</a>
+        {% endif %}
+        {% if post.posterurl %}
+          |
+          <a href="{{ post.posterurl }}">Poster</a>
+        {% endif %}]
       </div>
     {% endif %}
   </article>

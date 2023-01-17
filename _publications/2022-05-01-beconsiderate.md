@@ -5,7 +5,8 @@ permalink: /publication/secretive
 year: 2022
 short-venue: "AAMAS-22"
 venue-url: "https://aamas2022-conference.auckland.ac.nz"
-venue: "Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems."
+venue: "Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems, 2022."
 paperurl: "https://praal.github.io/publications/AlizadehAlamdari2022considerate.pdf"
-coauthors: ["Parand Alizadeh Alamdari", "Toryn Q. Klassen", "Sheila A. McIlraith"]
+codeurl: "https://github.com/praal/beconsiderate"
+coauthors: ["Parand Alizadeh Alamdari", "Toryn Klassen","Rodrigo Toro Icarte" ,"Sheila McIlraith"]
 ---

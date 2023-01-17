@@ -2,11 +2,15 @@
 
 Sheila McIlraith:
   name        : "Sheila A. McIlraith"
-  uri         : "cs.toronto.edu/~sheila"
+  uri         : "http://www.cs.toronto.edu/~sheila"
 
 Toryn Klassen:
   name        : "Toryn Q. Klassen"
-  uri       : "cs.toronto.edu/~toryn"
+  uri       : "http://www.cs.toronto.edu/~toryn"
+
+Rodrigo Toro Icarte:
+  name        : "Rodrigo Toro Icarte"
+  uri       : "http://www.cs.toronto.edu/~rntoro/"
 
 Thomas Henzinger:
   name        : "Thomas A. Henzinger"
