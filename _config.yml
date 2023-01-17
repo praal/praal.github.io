@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Parand A. Alamdari"
-  avatar           : "/images/parand.jpg"
+  avatar           : "parand.jpg"
   bio              : "Ph.D. Student at University of Toronto"
   location         : "Toronto, ON"
   employer         :
