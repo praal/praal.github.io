@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the [Department of Computer Science](https://web.cs.toronto.edu) at the University of Toronto, where I am fortunate to be working under the supervision of [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/). I’m also affiliated with the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai) and the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca).
+I am a PhD student in the [Department of Computer Science](https://web.cs.toronto.edu) at the University of Toronto, where I am fortunate to be working under the supervision of [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/). I’m also affiliated with the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai) and the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca).
 Before joining UofT, I received my B.Sc. in Computer Engineering from [Sharif University of Technology](https://ce.sharif.edu).
 
 My research explores topics related to reinforcement learning, AI safety, responsible AI, and deep learning. I am interested in building AI agents with actions properly aligned with human values. In other words, I aim to develop techniques that will allow us to characterize, understand, and build AI technologies that realize principles of safety, fairness, privacy, and where necessary and possible, interpretability. 
