@@ -10,6 +10,6 @@ paperurl: "https://praal.github.io/publications/"
 
 paperurl: "https://praal.github.io/publications/KlassenAAMAS2023epistemic.pdf"
 posterurl: "https://praal.github.io/publications/epistemic_side_effects_aamas23_poster.pdf"
-codeurl: "https://github.com/praal/aamas_epistemic_side_effects"
+codeurl: "https://github.com/praal/epistemic_side_effects"
 coauthors: ["Toryn Klassen", "Parand Alizadeh Alamdari", "Sheila McIlraith"]
 ---
