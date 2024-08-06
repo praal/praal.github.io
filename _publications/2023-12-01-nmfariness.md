@@ -1,5 +1,5 @@
 ---
-title: "Remembering to Be Fair: On Non-Markovian Fairness in Sequential Decision Making."
+title: "Remembering to Be Fair: On Non-Markovian Fairness in Sequential Decision Making (Preliminary Report)"
 collection: publications
 permalink: /publication/secretive
 year: 2023
