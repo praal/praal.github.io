@@ -10,4 +10,5 @@ paperurl: "https://praal.github.io/publications/NeurIPS_MLSafety_avoiding_episte
 posterurl: "https://praal.github.io/publications/KlassenMLSafety2022epistemic_poster.pdf"
 codeurl: "https://github.com/praal/epistemic_side_effects"
 coauthors: ["Toryn Klassen", "Parand Alizadeh Alamdari", "Sheila McIlraith"]
+workshop: True
 ---

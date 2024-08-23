@@ -5,15 +5,15 @@ Elliot Creager:
 
 Sheila McIlraith:
   name        : "Sheila A. McIlraith"
-  uri         : "http://www.cs.toronto.edu/~sheila"
+  uri         : "https://www.cs.toronto.edu/~sheila"
 
 Toryn Klassen:
   name        : "Toryn Q. Klassen"
-  uri       : "http://www.cs.toronto.edu/~toryn"
+  uri       : "https://www.cs.toronto.edu/~toryn"
 
 Rodrigo Toro Icarte:
   name        : "Rodrigo Toro Icarte"
-  uri       : "http://www.cs.toronto.edu/~rntoro/"
+  uri       : "https://www.cs.toronto.edu/~rntoro/"
 
 Thomas Henzinger:
   name        : "Thomas A. Henzinger"
@@ -30,3 +30,19 @@ Anna Lukina:
 Parand Alizadeh Alamdari:
   name        : "<em>Parand Alizadeh Alamdari</em>"
 
+Ariel Procaccia:
+  name        : "Ariel Procaccia"
+  uri         : "https://procaccia.info/"
+
+Soroush Ebadian:
+  name        : "Soroush Ebadian"
+  uri         : "https://ebadian.org"
+
+
+Ynashuai Cao:
+  name        : "Yanshuai Cao"
+  uri         : "https://yanshuaicao.github.io"
+
+Kevin Wilson:
+  name: "Kevin Wilson"
+  uri: "https://www.linkedin.com/in/kevinhayeswilson/"

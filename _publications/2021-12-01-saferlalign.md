@@ -10,4 +10,5 @@ paperurl: "https://praal.github.io/publications/AlizadehAlamdari2021avoiding.pdf
 posterurl: "https://praal.github.io/publications/AlizadehAlamdariSafeRL2021avoiding_poster.pdf"
 codeurl: "https://github.com/praal/beconsiderate"
 coauthors: ["Parand Alizadeh Alamdari", "Toryn Klassen","Rodrigo Toro Icarte" ,"Sheila McIlraith"]
+workshop: True
 ---
