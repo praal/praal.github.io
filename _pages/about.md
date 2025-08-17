@@ -13,6 +13,11 @@ Before joining UofT, I received my B.Sc. in Computer Engineering from Sharif Uni
 
 My research explores topics related to AI Alignment, Responsible AI, Agentic AI, and Reinforcement Learning. I am interested in building AI agents with actions properly aligned with human values. In other words, I aim to develop techniques that will allow us to characterize, understand, and build AI technologies that realize principles of safety, fairness, privacy, and where necessary and possible, interpretability. 
 
+
+### News
+* June 2025: I joined Microsoft Research Cambridge as a Research Intern working on LLM reasoning!
+
+
 ### Selected Awards
 
 * Recipient of **DeepMind Fellowship** for PhD studies, 2021-2025.
