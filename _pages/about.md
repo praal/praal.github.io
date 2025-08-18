@@ -16,10 +16,9 @@ My research explores topics related to AI Alignment, Responsible AI, Agentic AI,
 
 ### News
 * **June 2025**: I joined **Microsoft Research Cambridge** as a Research Intern working on LLM reasoning!
-* **Sep 2024**: Our paper "Policy Aggregation" is accepted at NeurIPS.
-* **Sep 2024**: Our paper "Jump Starting Bandits with LLM-generated prior knowledge" is accepted at EMNLP. 
-* **May 2024**: Our paper "Remembering to Be Fair: Non-Markovian Fairness in Sequential Decision Making" is accepted at ICML.
-* **Feb 2024**: I joined **Borealis AI** as a Research Intern working on preference simulation using LLMs! 
+* **Sep 2024**: Our papers are accepted to NeurIPS'24 and EMNLP'24.
+* **May 2024**: Our paper is accepted to ICML'24.
+* **Feb 2024**: I joined **Borealis AI (RBC Borealis)**  as a Research Intern working on preference simulation using LLMs! 
 
 ### Selected Awards
 
